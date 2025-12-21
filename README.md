@@ -1,17 +1,17 @@
 # Hi there 👋 I'm Akpan Joseph — a creative developer
 
-[![Profile views](https://komarev.com/ghpvc/?username=syntaxdesigner01&color=0e75b6)](https://github.com/syntaxdesigner01)
+[![Profile views](https://komarev.com/ghpvc/?username=akpanjoseph01&color=0e75b6)](https://github.com/akpanjoseph01)
 
-A short tagline about you — what you build and the problems you love to solve. One or two lines max.
+I build modern web applications with clean, performant frontend experiences. Passionate about scalable UI, AI integration, and empowering users through technology.
 
 ---
 
 ## ✨ Quick links
-- 🔭 Current: Working on [Project-A](https://github.com/syntaxdesigner01/PROJECT-A)
+- 🔭 Current: Working on [Pipi Chrome Extension](https://github.com/akpanjoseph01/Pipi)
 - 🌱 Learning: GraphQL, Advanced TypeScript
-- 👯 Open to: Collaboration on web apps, open-source tools, design systems
-- 💬 Ask me about: Frontend, UX, building delightful developer experiences
-- 📫 Contact: [email@example.com](mailto:akpanjoesph2021@google.com) • [Twitter](https://twitter.com/syntaxdesigner) • [LinkedIn](https://linkedin.com/in/akpanjosepho1)
+- 👯 Open to: Collaboration on web apps, AI projects, open-source tools
+- 💬 Ask me about: Frontend, UX, AI integrations, modern web development
+- 📫 Contact: [akpanjoesph2021@gmail.com](mailto:akpanjoesph2021@gmail.com) • [Twitter](https://twitter.com/syntaxdesigner) • [LinkedIn](https://linkedin.com/in/akpanjosepho1)
 
 ---
 
@@ -22,54 +22,48 @@ A short tagline about you — what you build and the problems you love to solve.
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1) Project-A — Elegant UI Library
-[![Project-A Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://github.com/syntaxdesigner01/PROJECT-A)  
-A modern, accessible UI component library for building fast interfaces. Built with React + TypeScript, focused on performance and developer ergonomics.
+### 1) Pipi — Chrome Bookmark Manager Extension
+[![Pipi Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://github.com/akpanjoseph01/Pipi)  
+Pipi is a productivity Chrome extension that helps you manage your bookmark URLs efficiently. With Pipi, you can easily save, organize, and access your favorite websites with just a few clicks. It also allows you to group URLs based on research projects or categories.  
 
-- Tech: React • TypeScript • Vite • Tailwind
-- Highlights: SSR-friendly, tree-shakeable, extensive docs
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/PROJECT-A
-
----
-
-### 2) Project-B — Async Task Orchestrator
-[![Project-B](https://img.shields.io/badge/stable-v1.2.0-blue)](https://github.com/syntaxdesigner01/PROJECT-B)  
-A Node.js library to simplify complex async workflows with strong types and retries.
-
-- Tech: Node.js • TypeScript
-- Highlights: Retry policies, built-in telemetry hooks, small footprint
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/PROJECT-B
+- Tech: JavaScript • HTML • CSS • Chrome Extension APIs
+- Highlights: Save and group bookmarks, intuitive UI, research project organization
+- Repo: https://github.com/akpanjoseph01/Pipi
 
 ---
 
-### 3) Project-C — Design-to-Code Toolkit
-[![Project-C Demo](https://img.shields.io/badge/demo-live-orange)](https://github.com/syntaxdesigner01/PROJECT-C)  
-Tools and scripts that turn design tokens into production-ready CSS & component snippets.
+### 2) Codetivite — Career Mentorship Platform
+[![Codetivite Demo](https://img.shields.io/badge/demo-online-blue)](https://www.codetivite.org/)  
+A platform that helps tech enthusiasts jumpstart careers through mentorship, project portfolios, and resume-building guidance.  
 
-- Tech: JavaScript • CSS-in-JS • Storybook
-- Highlights: Token pipeline, plugin-ready, themeable components
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/PROJECT-C
+- Tech: Next.js 14 • TypeScript • Tailwind CSS • Redux Toolkit
+- Highlights: Personalized mentorship, project tracking, interactive dashboards
+- Repo: https://github.com/akpanjoseph01/Codetivite
+
+---
+
+### 3) Vigortech — Empowering Africa with Smart Technology
+[![Vigortech](https://img.shields.io/badge/demo-online-orange)](https://vigortech.vercel.app/)  
+Vigortech delivers innovative solutions that transform businesses through cutting-edge technology, expert strategy, and seamless integration. We focus on **Technology, Education, and Finance** to drive growth in Africa’s digital economy.  
+
+- Tech: Next.js • TypeScript • Tailwind CSS 
+- Highlights: Tech platforms and tools, educational programs, accessible finance solutions
+- Repo: https://github.com/akpanjoseph01/Vigortech
 
 ---
 
 ## 📊 GitHub Stats
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=syntaxdesigner01&show_icons=true&theme=radical)](https://github.com/syntaxdesigner01)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxdesigner01&layout=compact&theme=radical)](https://github.com/syntaxdesigner01)
-
----
-
-## 🎨 Visual Project Cards (optional)
-You can add screenshots or GIFs for each project here. Example:
-
-![Project-A screenshot](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/PROJECT-A/main/assets/screenshot.png)
+[![Akpan Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=akpanjoseph01&show_icons=true&theme=radical)](https://github.com/akpanjoseph01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akpanjoseph01&layout=compact&theme=radical)](https://github.com/akpanjoseph01)
 
 ---
 
@@ -83,7 +77,3 @@ You can add screenshots or GIFs for each project here. Example:
 
 ## ❤️ Support / Follow
 If you enjoy my work, a ⭐️ on my projects goes a long way. Thank you!
-
----
-
-_This README was created from a ready-to-use template. Replace all occurrences of `YOUR_GITHUB_USERNAME`, `PROJECT-A`, `Project-A` and example links with your real information. For badges and stats to work, the GitHub username must be correct and the profile repo must be named exactly your username._
