@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Akpan Joseph — a creative developer
+# Hi there 👋 I'm Akpan Joseph — Frontend Engineer
 
 [![Profile views](https://komarev.com/ghpvc/?username=akpanjoseph01&color=0e75b6)](https://github.com/akpanjoseph01)
 
