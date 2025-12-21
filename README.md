@@ -7,11 +7,11 @@ A short tagline about you — what you build and the problems you love to solve.
 ---
 
 ## ✨ Quick links
-- 🔭 Current: Working on [Project-A](https://github.com/YOUR_GITHUB_USERNAME/PROJECT-A)
+- 🔭 Current: Working on [Project-A](https://github.com/syntaxdesigner01/PROJECT-A)
 - 🌱 Learning: GraphQL, Advanced TypeScript
 - 👯 Open to: Collaboration on web apps, open-source tools, design systems
 - 💬 Ask me about: Frontend, UX, building delightful developer experiences
-- 📫 Contact: [email@example.com](mailto:email@example.com) • [Twitter](https://twitter.com/yourhandle) • [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Contact: [email@example.com](mailto:akpanjoesph2021@google.com) • [Twitter](https://twitter.com/syntaxdesigner) • [LinkedIn](https://linkedin.com/in/akpanjosepho1)
 
 ---
 
@@ -30,7 +30,7 @@ A short tagline about you — what you build and the problems you love to solve.
 ## 🚀 Featured Projects
 
 ### 1) Project-A — Elegant UI Library
-[![Project-A Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT-A)  
+[![Project-A Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://github.com/syntaxdesigner01/PROJECT-A)  
 A modern, accessible UI component library for building fast interfaces. Built with React + TypeScript, focused on performance and developer ergonomics.
 
 - Tech: React • TypeScript • Vite • Tailwind
@@ -40,7 +40,7 @@ A modern, accessible UI component library for building fast interfaces. Built wi
 ---
 
 ### 2) Project-B — Async Task Orchestrator
-[![Project-B](https://img.shields.io/badge/stable-v1.2.0-blue)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT-B)  
+[![Project-B](https://img.shields.io/badge/stable-v1.2.0-blue)](https://github.com/syntaxdesigner01/PROJECT-B)  
 A Node.js library to simplify complex async workflows with strong types and retries.
 
 - Tech: Node.js • TypeScript
@@ -50,7 +50,7 @@ A Node.js library to simplify complex async workflows with strong types and retr
 ---
 
 ### 3) Project-C — Design-to-Code Toolkit
-[![Project-C Demo](https://img.shields.io/badge/demo-live-orange)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT-C)  
+[![Project-C Demo](https://img.shields.io/badge/demo-live-orange)](https://github.com/syntaxdesigner01/PROJECT-C)  
 Tools and scripts that turn design tokens into production-ready CSS & component snippets.
 
 - Tech: JavaScript • CSS-in-JS • Storybook
@@ -61,8 +61,8 @@ Tools and scripts that turn design tokens into production-ready CSS & component 
 
 ## 📊 GitHub Stats
 <!-- Replace YOUR_GITHUB_USERNAME below -->
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=syntaxdesigner01&show_icons=true&theme=radical)](https://github.com/syntaxdesigner01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxdesigner01&layout=compact&theme=radical)](https://github.com/syntaxdesigner01)
 
 ---
 
