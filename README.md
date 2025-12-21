@@ -37,7 +37,7 @@ Pipi is a productivity Chrome extension that helps you manage your bookmark URLs
 
 - Tech: JavaScript • HTML • CSS • Chrome Extension APIs
 - Highlights: Save and group bookmarks, intuitive UI, research project organization
-- Repo: https://github.com/akpanjoseph01/Pipi
+- Repo: https://github.com/syntaxdesigner01/pipi-extension
 
 ---
 
@@ -47,7 +47,7 @@ A platform that helps tech enthusiasts jumpstart careers through mentorship, pro
 
 - Tech: Next.js 14 • TypeScript • Tailwind CSS • Redux Toolkit
 - Highlights: Personalized mentorship, project tracking, interactive dashboards
-- Repo: https://github.com/akpanjoseph01/Codetivite
+- Repo: 
 
 ---
 
@@ -57,13 +57,13 @@ Vigortech delivers innovative solutions that transform businesses through cuttin
 
 - Tech: Next.js • TypeScript • Tailwind CSS 
 - Highlights: Tech platforms and tools, educational programs, accessible finance solutions
-- Repo: https://github.com/akpanjoseph01/Vigortech
+- Repo: https://github.com/Haroldkess/vigortech_web
 
 ---
 
 ## 📊 GitHub Stats
-[![Akpan Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=akpanjoseph01&show_icons=true&theme=radical)](https://github.com/akpanjoseph01)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akpanjoseph01&layout=compact&theme=radical)](https://github.com/akpanjoseph01)
+[![Akpan Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=syntaxdesigner01&show_icons=true&theme=radical)](https://github.com/syntaxdesigner01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxdesigner01&layout=compact&theme=radical)](https://github.com/syntaxdesigner01)
 
 ---
 
