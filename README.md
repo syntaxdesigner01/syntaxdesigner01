@@ -32,7 +32,7 @@ I build modern web applications with clean, performant frontend experiences. Pas
 ## 🚀 Featured Projects
 
 ### 1) Pipi — Chrome Bookmark Manager Extension
-[![Pipi Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://github.com/akpanjoseph01/Pipi)  
+[![Pipi Demo](https://img.shields.io/badge/demo-online-brightgreen)](http://bit.ly/4q9tueF)  
 Pipi is a productivity Chrome extension that helps you manage your bookmark URLs efficiently. With Pipi, you can easily save, organize, and access your favorite websites with just a few clicks. It also allows you to group URLs based on research projects or categories.  
 
 - Tech: JavaScript • HTML • CSS • Chrome Extension APIs
