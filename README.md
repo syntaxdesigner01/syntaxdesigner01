@@ -7,7 +7,7 @@ I build modern web applications with clean, performant frontend experiences. Pas
 ---
 
 ## ✨ Quick links
-- 🔭 Current: Working on [Pipi Chrome Extension](https://github.com/akpanjoseph01/Pipi)
+- 🔭 Current: Working on [Pipi Chrome Extension](http://bit.ly/4q9tueF)
 - 🌱 Learning: GraphQL, Advanced TypeScript
 - 👯 Open to: Collaboration on web apps, AI projects, open-source tools
 - 💬 Ask me about: Frontend, UX, AI integrations, modern web development
