@@ -37,7 +37,7 @@ Pipi is a productivity Chrome extension that helps you manage your bookmark URLs
 
 - Tech: JavaScript • HTML • CSS • Chrome Extension APIs
 - Highlights: Save and group bookmarks, intuitive UI, research project organization
-- Repo: https://github.com/syntaxdesigner01/pipi-extension
+- Repo: https://syntaxdesigner01.github.io/pipi-tabs/
 
 ---
 
