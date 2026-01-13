@@ -37,7 +37,7 @@ Pipi is a productivity Chrome extension that helps you manage your bookmark URLs
 
 - Tech: JavaScript • HTML • CSS • Chrome Extension APIs
 - Highlights: Save and group bookmarks, intuitive UI, research project organization
-- Repo: https://syntaxdesigner01.github.io/pipi-tabs/
+- Link: https://syntaxdesigner01.github.io/pipi-tabs/
 
 ---
 
@@ -47,7 +47,7 @@ A platform that helps tech enthusiasts jumpstart careers through mentorship, pro
 
 - Tech: Next.js 14 • TypeScript • Tailwind CSS • Redux Toolkit
 - Highlights: Personalized mentorship, project tracking, interactive dashboards
-- Repo: 
+- Link: https://www.codetivite.org/
 
 ---
 
@@ -57,7 +57,7 @@ Vigortech delivers innovative solutions that transform businesses through cuttin
 
 - Tech: Next.js • TypeScript • Tailwind CSS 
 - Highlights: Tech platforms and tools, educational programs, accessible finance solutions
-- Repo: https://github.com/Haroldkess/vigortech_web
+- Link:  https://vigortech.vercel.app/
 
 ---
 
