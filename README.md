@@ -1,10 +1,4 @@
-<!-- CINEMATIC HEADER -->
-<img src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" alt="header banner"/>
 
-<!-- AVATAR -->
-<p align="center">
-  <img src="https://github.com/syntaxdesigner01.png" width="110" style="border-radius:50%"/>
-</p>
 
 <!-- GREETING -->
 <h1 align="center">Hey there 👋 I'm Akpan Joseph</h1>
@@ -176,6 +170,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syntaxdesigner01&bg_color=0d0d0d&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="95%" alt="Akpan Joseph's Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://images.pexels.com/photos/21759428/pexels-photo-21759428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" alt="tokyo night footer"/>
-</p>
+
