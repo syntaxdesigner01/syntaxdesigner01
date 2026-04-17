@@ -1,5 +1,30 @@
+<!-- CINEMATIC HEADER -->
+<img src="https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" alt="header banner"/>
+
+<!-- AVATAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:000000&height=240&section=header&text=Akpan%20Joseph!&fontSize=68&fontColor=64ffda&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=62&descAlign=50&descColor=8892b0&stroke=64ffda&strokeWidth=1&fontFamily=Outfit" width="100%"/>
+  <img src="https://github.com/syntaxdesigner01.png" width="110" style="border-radius:50%"/>
+</p>
+
+<!-- GREETING -->
+<h1 align="center">Hey there 👋 I'm Akpan Joseph</h1>
+
+<p align="center">
+  A Frontend Engineer fueled by coffee and an unhealthy obsession with pixel-perfect dark UIs.<br/>
+  By day, I turn Figma files into production-ready code that actually works.<br/>
+  By night, I build Chrome extensions to automate myself out of doing actual work.<br/>
+  When I'm not coding, I'm rage-quitting a game or convincing myself this refactor will take 5 minutes.
+</p>
+
+<!-- STATS ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syntaxdesigner01&label=PROFILE+VIEWS&color=0d1117&style=flat-square&labelColor=64ffda&fontColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/syntaxdesigner01?label=STARS&style=flat-square&color=0d1117&labelColor=64ffda&logo=github"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/syntaxdesigner01?label=FOLLOWERS&style=flat-square&color=0d1117&labelColor=64ffda&logo=github"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-yes-0d1117?style=flat-square&labelColor=64ffda"/>
 </p>
 
 ---
@@ -12,14 +37,6 @@
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230" alt="coder gif"/>
     </td>
     <td width="60%" valign="top">
-      <h3>Hey there! I'm Akpan Joseph</h3>
-      <p>
-        A Frontend Engineer fueled by coffee and an unhealthy obsession with pixel-perfect dark UIs.
-        By day, I turn Figma files into production-ready code that actually works.
-        By night, I build Chrome extensions to automate myself out of doing actual work.
-        When I'm not coding, I'm probably rage-quitting a competitive game or convincing myself
-        this refactor will only take 5 minutes.
-      </p>
       <ul>
         <li>🔭 Currently building: <a href="http://bit.ly/4q9tueF">Pipi Chrome Extension</a></li>
         <li>🌱 Learning: GraphQL · Advanced TypeScript</li>
@@ -160,9 +177,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdRoOp1FUYbtGDu/giphy.gif" width="100%" alt="pixel art footer"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://images.pexels.com/photos/21759428/pexels-photo-21759428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" alt="tokyo night footer"/>
 </p>
